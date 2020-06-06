@@ -1,7 +1,7 @@
 {
   "name": "list-npm-scripts",
   "version": "1.0.0",
-  "description": "TBD",
+  "description": "List npm scripts you defined.Provides you almost the same functionality as \"npm run\" or \"yarn run\" command.",
   "bin": {
     "list-npm-scripts": "./index.js"
   },
